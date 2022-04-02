@@ -23,7 +23,7 @@ const SearchBox = ({ history }) => {
         className='mr-sm-2 ml-sm-5'
       ></Form.Control>
 
-      <Button type='submit' variant='outline-success' style="margin-top:10px;">
+      <Button type='submit' variant='outline-success'>
         Search
       </Button>
     </Form>
