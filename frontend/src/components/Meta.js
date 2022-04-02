@@ -12,9 +12,9 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-  title: 'Shree Hari Departmental Store',
-  description: 'We sell the best products for cheap',
-  keywords: 'Dairy, groceries, snacks',
+  title: 'Agricultural-products(Harvest Solutions)',
+  description: 'We sell the best products at cheap price',
+  keywords: 'crop seeds, manure, fertilizers',
 }
 
 export default Meta
